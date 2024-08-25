@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://fish-simp.github.io/sitemap/sitemap.txt
